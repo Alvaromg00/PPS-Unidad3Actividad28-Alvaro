@@ -25,3 +25,14 @@ Ahora debemos obtener **Genymotion** desde su página oficial:
 Lo instalamos y ya podemos acceder, ahora debemos crear una cuenta y acceder:
 
 ![MobSF](Imagenes/3.png)
+
+![MobSF](Imagenes/5.png)
+
+Una vez dentro creamos el dispositivo para virtualización:
+
+![MobSF](Imagenes/6.png)
+
+Y le damos al play:
+
+![MobSF](Imagenes/7.png)
+
