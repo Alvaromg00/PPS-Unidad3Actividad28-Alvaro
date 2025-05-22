@@ -36,3 +36,28 @@ Y le damos al play:
 
 ![MobSF](Imagenes/7.png)
 
+Una vez arrancado debemos consultar la ip e introducir en mobsf una variable de entorno con la ip:
+
+![MobSF](Imagenes/8.png)
+
+Ya podemos arrastrar la apk, en mi caso voy a introducir **pivaa.apk** ya que al estar en un entrono virtualizado, no puedo realizarlo con **InsecureBankv2**:
+
+Una vez que esta la apk, si recargamos la página de Mobsf Dynamic Analyzer ya nos aparece:
+
+![MobSF](Imagenes/9.png)
+
+Podemos darle a **Start Dinamic Analysis** y comenzará el análisis.
+
+Al terminar, ya nos muestra los resultados:
+
+![MobSF](Imagenes/10.png)
+
+Y podemos consultar datos como:
+
+- 
+- Permisos en tiempo de ejecución.
+- Tráfico de red y endpoints detectados.
+- Interacciones con el sistema.
+- Análisis de logs, broadcasts, servicios, etc.
+- Captura de tráfico HTTPS (si está configurado con proxy o CA).
+
